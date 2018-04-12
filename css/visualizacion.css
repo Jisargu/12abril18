@@ -1,0 +1,9 @@
+._inline{
+display: inline;
+}
+._inline_block{
+    display: inline-block;
+}
+.a_la_derecha{
+    text-align: right;
+}

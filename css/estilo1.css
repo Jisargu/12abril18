@@ -1,0 +1,4 @@
+/*Estilo 1*/
+body{
+    background-color: thistle !important;/*cambia el flujo de cascada y prioriza lo "importante" (!important)*/
+}
