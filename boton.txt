@@ -1,0 +1,6 @@
+<a href="pinterest.com"><button type="button">Registrate</button></a>
+
+button {
+	background-color: red;
+	color: white;
+}
